@@ -1,0 +1,66 @@
+body{
+  background-color: #96CEB4;
+}
+h1{
+  text-align: center;
+  position: relative;
+
+}
+form{
+  background-color: White;
+  text-align: center;
+}
+
+label{
+/*   display: block;
+ */}
+
+}
+input .experience .space{
+  padding: 5px 35px;
+
+}
+
+.space{
+  padding: 6px 30px;
+  text-align: left;
+}
+
+
+.questinaire-sec{
+line-height: 1.5;
+
+}
+.experience{
+  padding: 20px 30px;
+}
+li{
+  list-style-type: none;
+}
+
+.c-box{
+  position: relative;
+left: -43px;
+margin-left: 10px;
+display: block;
+padding-bottom: 10px;
+}
+
+
+
+.list-box {
+    display: inline;
+    width: 30%;
+    vertical-align: middle;
+    align-items: center;
+
+}
+
+.btn{
+  padding: : 7px 10px;
+}
+
+.btn:hover{
+  background-color: White;
+  color: black;
+}
